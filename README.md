@@ -105,3 +105,9 @@ $ pybabel compile -f -d ./locale/
 If you added a new language for the first time, you need to make sure its target definition (in the `dactyl-config.yml` file) has the MO file in the `locale_file` field.
 
 After that, next time you build the site using Dactyl it should pull the updated translations!
+## Donate
+BTC : 1CDo5i3gCxLcAUCLv8iNDnW4Et2ykLHha6
+
+ETH (ERC/20) : 0x5ac3e2e9fedc5f7d19ae3b20686e147cd729b569
+
+USDT (TRC/20) : TUq5e6G9Vx2kszg4zajGG4PDPv3GTebMhQ
